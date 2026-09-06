@@ -89,8 +89,9 @@ The analysis demonstrates how e-commerce transaction data can be used to underst
 - Order status
 - Marketing/referral sources
 
-## 📂 Project Structure
 
+## 📂 Project Structure
+```
 DecodeLabs Data Analysis Project 2/
 │
 ├── Analysis.html
