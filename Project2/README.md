@@ -1,6 +1,6 @@
-🔗#DecodeLabs Exploratory Data Analysis Project 2
+#🔗DecodeLabs Exploratory Data Analysis Project 2
 
-📌 ##Project Overview
+##📌Project Overview
 
 This project is an E-Commerce Data Analysis and Exploratory Data Analysis (EDA) project completed as part of Decodelabs Data Analytics Project 2.
 
