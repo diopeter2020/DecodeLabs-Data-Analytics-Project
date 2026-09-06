@@ -1,4 +1,4 @@
-#🔗 DecodeLabs Exploratory Data Analysis Project 2
+#DecodeLabs Exploratory Data Analysis Project 2
 
 ##📌 Project Overview
 
