@@ -82,11 +82,6 @@ Through this project, I demonstrated practical skills in:
 - Pandas
 - Data quality assurance
 
-## 💡 Key Learning
-
-This project reinforced the importance of data quality before analysis. Cleaning missing values, checking duplicates, and validating data formats helps ensure that subsequent analysis is based on accurate and reliable information.
-
-## 📁 Project Structure
 ```
 Data-Cleaning/
 │
@@ -94,6 +89,11 @@ Data-Cleaning/
 ├── Data_Cleaning.pdf
 └── README.MD
 ```
+
+## 💡 Key Learning
+
+This project reinforced the importance of data quality before analysis. Cleaning missing values, checking duplicates, and validating data formats helps ensure that subsequent analysis is based on accurate and reliable information.
+
 
 
 
