@@ -98,4 +98,11 @@ DecodeLabs Data Analysis Project 2/
 ├── Cleaned_dataset.csv
 └── README.md
 ```
+## 🎓 Project Outcome
+
+This project strengthened my ability to move from raw data to meaningful insights by combining data preparation, exploratory analysis, descriptive statistics, visualization, and analytical thinking.
+
+It also provided practical experience in using Python and Pandas to investigate real-world e-commerce data and communicate findings in a structured way
+
+
 
