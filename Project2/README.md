@@ -55,7 +55,7 @@ The analysis identified 8 potential outliers. Several of these transactions had 
 
 These observations should be investigated further to determine whether they represent legitimate high-value transactions or potential data-quality issues.
 
-##Product Analysis
+## Product Analysis
 
 Product-level sales were analysed by grouping products and calculating their total sales.
 
