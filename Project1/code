@@ -1,1 +1,145 @@
+-- Data Cleaning 
+-- Load dataset
+-- Import libraries
+
+import pandas as pd
+import numpy as np
+df = pd.read_excel("Dataset for Data Analytics.xlsx")
+df.head()
+
+print("Dataset Shape")
+df.shape
+
+print("\nColumn Names:")
+print(df.columns)
+
+print("\nDataset Information:")
+df.info()
+
+-- Check basic ststistics
+df.describe()
+
+print("\nMissing Values:")
+print(df.isnull().sum())
+
+-- Check missing percentage
+missing_percent = (df.isnull().sum() / len(df)) * 100
+missing_report = pd.DataFrame({
+"Missing Values": df.isnull().sum(),
+ "Missing Percentage": missing_percent
+})
+missing_report
+
+-- Replace missing values
+df["CouponCode"]= df["CouponCode"].fillna("NoCode")
+print("\nMissing Values after Cleaning:")
+print(df.isnull().sum())
+
+df["CouponCode"].head(20)
+
+print("\nduplicate rows:")
+print(df.duplicated().sum())
+
+df = df.drop_duplicates()
+df = df.drop_duplicates(subset = "OrderID")
+df
+
+print(df.duplicated().sum())
+print(df["OrderID"].duplicated().sum())
+
+df["Product"] = df["Product"].str.strip().str.title()
+df.head(2)
+
+df["ShippingAddresst"] = df["ShippingAddress"].str.strip().str.title()
+df.head(2)
+
+-- Round Round Numeric column to 2 decimalplace
+df["UnitPrice"] = df["UnitPrice"].round(2)
+df.head(2)
+
+df["TotalPrice"] = df["TotalPrice"].round(2)
+df.head(2)
+
+-- exported clean dataset and saved as csv
+df.to_csv("Cleaned_dataset.csv", index = False)
+df.head()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
