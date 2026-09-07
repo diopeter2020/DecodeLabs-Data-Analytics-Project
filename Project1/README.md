@@ -85,11 +85,12 @@ Through this project, I demonstrated practical skills in:
 - Data quality assurance
 
 ```
-Data-Cleaning/
+Data-Cleaning-Project 1/
 │
-├──Cleaned_Data.csv
-├── Data_Cleaning.pdf
-└── README.MD
+├── 📊 Cleaned_dataset.csv
+├── 🐍 Data cleaning.py
+├── 📑 Data_Cleaning.pdf
+└── 📘 README.md
 ```
 
 ## 💡 Key Learning
