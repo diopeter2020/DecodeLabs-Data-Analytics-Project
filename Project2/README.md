@@ -95,10 +95,12 @@ The analysis demonstrates how e-commerce transaction data can be used to underst
 
 ## 📂 Project Structure
 ```
-DecodeLabs Data Analysis Project 2/
+DecodeLabs Data AnalysisProject 2/
 │
-├── Analysis.html
+├── Analysis.py
 ├── Cleaned_dataset.csv
+├── Dataset for Data Analysis.xlsx
+├── EDA_Analysis.pdf
 └── README.md
 ```
 ## 🎓 Project Outcome
