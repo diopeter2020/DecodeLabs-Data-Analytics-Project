@@ -95,7 +95,7 @@ Cancellation rate is high and needs attention.
 - Coupon Impact customers who used a coupon had an Avg order value of 1,053.97 across 1200 orders.
 
 ## 📁 Project Structure
-`
+```
 DecodeLabs E-Commerce Data Analysis Project3
 │
 ├── Dataset/
@@ -105,7 +105,7 @@ DecodeLabs E-Commerce Data Analysis Project3
 │   └── Project 3_analysis.sql
 │  
 └── README.md
-`
+```
 ## 📈 Business Value
 
 This project demonstrates how SQL can be used to move beyond simply storing data and instead answer practical business questions.
