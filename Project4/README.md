@@ -26,10 +26,10 @@ The project demonstrates how raw e-commerce data can be transformed into an inte
 ## 📁 Project Files
 ```
 E-Commerce-Sales-Analysis/
-├── E-Commerce Sales Analysis Dashboard.pbix
-├── Cleaned.csv
-├── Dashboard Screenshot.png
-└── README.md
+├──Cleaned.csv
+├──  DecodeLabs Analysis Dashboard.pbix
+├── READ.me
+└──Dashboard Screenshot.png
 ```
 ## Business Problems
 
