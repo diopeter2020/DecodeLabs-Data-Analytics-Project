@@ -20,6 +20,7 @@ This project is an E-Commerce Sales Analysis Dashboard built with Microsoft Powe
 ## 🛠️ Tools
 
 Power BI | Power Query | DAX | Excel/CSV
+
 The project demonstrates how raw e-commerce data can be transformed into an interactive business intelligence dashboard that provides clear insights into product performance, customer orders, order status, and marketing channels.
 
 ## 📁 Project Files
@@ -40,7 +41,7 @@ The analysis identified several areas that may require business attention.
 - Different referral performance: Sales and order volumes vary significantly across referral sources.
 Coupon dependency: A significant number of orders were associated with coupon codes, making it important to understand their impact on sales and profitability.
 
-##💡 Recommendations
+## Recommendations
 
 - Investigate the reasons behind cancelled and returned orders and address recurring issues.
 - Review the performance of low selling products and consider better marketing, pricing, or product positioning.
