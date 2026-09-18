@@ -1,5 +1,5 @@
 
-📊 DecodeLabs E-Commerce Sales Analysis Project4
+# 📊 DecodeLabs E-Commerce Sales Analysis Project4
 
 This project is an E-Commerce Sales Analysis Dashboard built with Microsoft Power BI to analyze sales, orders, products, order status, coupon usage, and referral sources.
 
