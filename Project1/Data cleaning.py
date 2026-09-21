@@ -150,7 +150,7 @@ df.head(2)
 # In[60]:
 
 
-df["ShippingAddresst"] = df["ShippingAddress"].str.strip().str.title()
+df["ShippingAddress"] = df["ShippingAddress"].str.strip().str.title()
 df.head(2)
 
 
