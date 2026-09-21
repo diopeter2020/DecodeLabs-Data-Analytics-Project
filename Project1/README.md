@@ -1,12 +1,12 @@
 # DecodeLabs Data Analysis Project 1
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on cleaning and transforming a raw e-commerce dataset to make it reliable, consistent, and ready for further data analysis.
 
 The project demonstrates practical data-cleaning techniques using Python and Pandas, including identifying missing values, checking for duplicate records, validating data formats, and preparing the dataset for analysis.
 
-## 🎯 Project Objective
+## Project Objective
 
 The main objective of this project is to clean and transform a raw e-commerce dataset so that it becomes ready for analysis.
 
@@ -33,7 +33,7 @@ The dataset contains 1,200 rows and 14 columns
 - Jupyter Notebook
 - HTML
 
-## 🔍 Data Cleaning Process
+## Data Cleaning Process
 
 ### 1. Missing Value Detection
 
