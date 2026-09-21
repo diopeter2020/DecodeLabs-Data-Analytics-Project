@@ -18,9 +18,9 @@ The project specifically focuses on:
 - Ensuring the dataset contains no duplicate rows
 - Ensuring dates are correctly formatted
 
-## View PDF Report: [Data_Cleaning]
+## View html Report: [Data_Cleaning]
 
-(https://github.com/diopeter2020/DecodeLabs-Data-Analytics-Project/blob/main/Project1/Data_Cleaning.pdf )
+(https://htmlpreview.github.io/?https://github.com/diopeter2020/DecodeLabs-Data-Analytics-Project/blob/main/Project1/Data%20cleaning.html )
 
 ## 🗂️ Dataset:
 
@@ -87,10 +87,10 @@ Through this project, I demonstrated practical skills in:
 ```
 Data-Cleaning-Project 1/
 │
-├── 📊 Cleaned_dataset.csv
-├── 🐍 Data cleaning.py
-├── 📑 Data_Cleaning.pdf
-└── 📘 README.md
+├──  Cleaned_dataset.csv
+├──  Data cleaning.html
+├──  Data_Cleaning.py
+└──  README.md
 ```
 
 ## 💡 Key Learning
