@@ -81,7 +81,7 @@ Some important observations from the analysis include:
 - Referral has the lowest orders with 222 and 226,815.58 revenue.
 
  ## View Full Results: [EDA_Analysis]
-- (https://nbviewer.org/github/diopeter2020/DecodeLabs-Data-Analytics-Project/blob/main/Project2/EDA_Analysis.pdf)
+- (https://htmlpreview.github.io/?https://github.com/diopeter2020/DecodeLabs-Data-Analytics-Project/blob/main/Project2/Analysis.html)
 
 ## 💡 Business Insights
 
@@ -97,10 +97,10 @@ The analysis demonstrates how e-commerce transaction data can be used to underst
 ```
 DecodeLabs Exploratory Data Analysis Project 2/
 │
+├── Analysis.html
 ├── Analysis.py
-├── Cleaned_dataset.csv
-├── Dataset for Data Analysis.xlsx
-├── EDA_Analysis.pdf
+├──Cleaned_dataset.csv
+├── Dataset for Data Analytics.xlsx
 └── README.md
 ```
 ## 🎓 Project Outcome
