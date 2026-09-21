@@ -20,35 +20,3 @@ This repository contains four practical data analytics projects.
 | Project 3 | SQL Analysis | MySQL |
 | Project 4 | Power BI Dashboard | Power BI |
 
-RAW DATA
-                    │
-                    ▼
-          ┌──────────────────┐
-          │   PROJECT 1      │
-          │ Data Cleaning    │
-          │ & Preparation    │
-          └────────┬─────────┘
-                   │
-                   ▼
-          ┌──────────────────┐
-          │   PROJECT 2      │
-          │ Exploratory Data │
-          │    Analysis      │
-          └────────┬─────────┘
-                   │
-                   ▼
-          ┌──────────────────┐
-          │   PROJECT 3      │
-          │   SQL Analysis   │
-          │ Business Queries │
-          └────────┬─────────┘
-                   │
-                   ▼
-          ┌──────────────────┐
-          │   PROJECT 4      │
-          │   Power BI       │
-          │    Dashboard     │
-          └────────┬─────────┘
-                   │
-                   ▼
-            BUSINESS INSIGHTS
