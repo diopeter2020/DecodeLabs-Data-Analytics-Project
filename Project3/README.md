@@ -1,12 +1,12 @@
 # 📊 DecodeLabs E-Commerce Data Analysis Project3
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing an e-commerce dataset using MySQL to understand sales performance, customer behavior, products, orders, payment methods, and other business activities.
 
 The project demonstrates how SQL can be used to clean, explore, and analyze real-world business data and turn raw data into useful insights for decision-making.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 ### The main objectives of this project are to:
 
@@ -64,7 +64,7 @@ Some of the SQL concepts applied in this project include:
 - Subqueries
 - Business-oriented SQL analysis
 
-## 📊 Sample Business Questions
+## Sample Business Questions
 
 ### The analysis answers questions such as:
 
